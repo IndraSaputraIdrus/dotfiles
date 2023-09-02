@@ -33,6 +33,9 @@ opt.smartcase = true
 -- clipboard
 opt.clipboard:append("unnamedplus")
 
+-- satukan kata yang memiliki -, contoh bg-red-500
+opt.iskeyword:append("-")
+
 -- split window
 opt.splitright = true
 opt.splitbelow = true

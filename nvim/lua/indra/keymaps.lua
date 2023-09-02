@@ -29,6 +29,7 @@ keymap("n", "<A-Right>", ":vertical resize -2<CR>", opts)
 -- tree file
 -- keymap("n", "<leader>e", ":Lex 30<CR>", opts)
 keymap("n", "<leader>e", ":NvimTreeToggle<CR>", opts)
+keymap("n", "<leader>r", ":NvimTreeFocus<CR>", opts)
 
 -- move between buffer / tabs
 keymap("n", "<S-l>", ":bnext<CR>", opts)
