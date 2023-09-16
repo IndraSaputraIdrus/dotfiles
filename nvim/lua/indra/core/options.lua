@@ -40,6 +40,8 @@ opt.iskeyword:append("-")
 opt.splitright = true
 opt.splitbelow = true
 
+opt.hidden = false
+
 -- remove comment in new line
 -- value
 -- + 't'    -- auto-wrap text using textwidth
@@ -51,7 +53,5 @@ opt.splitbelow = true
 -- + 'n'    -- autoformat numbered list
 -- - '2'    -- I am a programmer and not a writer
 -- + 'j'    -- Join comments smartly
-vim.cmd [[autocmd FileType * set formatoptions-=ro]]
-vim.cmd [[au BufNewFile,BufRead *.ejs set filetype=html
-]]
+
 
