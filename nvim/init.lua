@@ -1,0 +1,1 @@
+require('ndrainz.config.lazy')
