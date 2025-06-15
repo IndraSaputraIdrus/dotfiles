@@ -17,5 +17,7 @@ bspc rule -a mplayer2 state=floating
 bspc rule -a Kupfer.py focus=on
 bspc rule -a Screenkey manage=off
 
+# bspc rule -a kitty state=tiled rectangle=1346x748
+
 $HOME/.config/polybar/polybar.sh
 
