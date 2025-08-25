@@ -1,2 +1,1 @@
-require("indra.core")
-require("indra.lazy")
+require('ndrainz.config.lazy')
