@@ -1,3 +1,6 @@
 [submodule ".config/nvim"]
 	path = .config/nvim
 	url = https://github.com/IndraSaputraIdrus/neovim-dotfile/
+[submodule "nixos"]
+	path = nixos
+	url = https://github.com/IndraSaputraIdrus/nixos-configuration
