@@ -1,0 +1,7 @@
+st/st
+dwm/dwm
+
+*.o
+*.bak
+*.swap
+*.swo
