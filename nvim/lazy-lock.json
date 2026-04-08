@@ -1,8 +1,0 @@
-{
-  "lazy.nvim": { "branch": "main", "commit": "306a05526ada86a7b30af95c5cc81ffba93fef97" },
-  "mini.base16": { "branch": "main", "commit": "e1e82653c1ece8b7fbe7e17e1d06b5f23139f5e5" },
-  "mini.files": { "branch": "main", "commit": "57eb96a828f80efb8095a611e3aafcfa43548f8b" },
-  "mini.icons": { "branch": "main", "commit": "5b9076dae1bfbe47ba4a14bc8b967cde0ab5d77e" },
-  "mini.nvim": { "branch": "main", "commit": "0098de999048af0539183d625c52d733318a441b" },
-  "mini.statusline": { "branch": "main", "commit": "8c3829d4ef02b693f68e43fc131b433f11049b2b" }
-}
